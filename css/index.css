@@ -1,0 +1,12 @@
+.thumbnail{
+    margin:5px;
+}
+.title{
+    margin: 5px;
+}
+.navButtons{
+    display: inline;
+}
+.navButtons > button{
+    margin: 10px;
+}
